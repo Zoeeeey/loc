@@ -4,3 +4,4 @@ baseurl:
 languages:
 
 ---
+theme: jekyll-theme-minimal
